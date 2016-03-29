@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Crystal\\AndroidStudioProjects\\RemindMe1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_repeating.xml",
+        "source": "C:\\Users\\Crystal\\AndroidStudioProjects\\RemindMe1\\app\\src\\main\\res\\layout\\include_repeating.xml"
+    },
+    {
+        "merged": "C:\\Users\\Crystal\\AndroidStudioProjects\\RemindMe1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row.xml",
+        "source": "C:\\Users\\Crystal\\AndroidStudioProjects\\RemindMe1\\app\\src\\main\\res\\layout\\row.xml"
+    },
+    {
+        "merged": "C:\\Users\\Crystal\\AndroidStudioProjects\\RemindMe1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\add.xml",
+        "source": "C:\\Users\\Crystal\\AndroidStudioProjects\\RemindMe1\\app\\src\\main\\res\\layout\\add.xml"
+    },
+    {
+        "merged": "C:\\Users\\Crystal\\AndroidStudioProjects\\RemindMe1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_onetime.xml",
+        "source": "C:\\Users\\Crystal\\AndroidStudioProjects\\RemindMe1\\app\\src\\main\\res\\layout\\include_onetime.xml"
+    },
+    {
+        "merged": "C:\\Users\\Crystal\\AndroidStudioProjects\\RemindMe1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\edit.xml",
+        "source": "C:\\Users\\Crystal\\AndroidStudioProjects\\RemindMe1\\app\\src\\main\\res\\layout\\edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Crystal\\AndroidStudioProjects\\RemindMe1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\Users\\Crystal\\AndroidStudioProjects\\RemindMe1\\app\\src\\main\\res\\layout\\main.xml"
+    }
+]
