@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Users\\Crystal\\AndroidStudioProjects\\RemindMe1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\type_selector.xml",
+        "source": "C:\\Users\\Crystal\\AndroidStudioProjects\\RemindMe1\\app\\src\\main\\res\\drawable\\type_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Crystal\\AndroidStudioProjects\\RemindMe1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_repeat.xml",
+        "source": "C:\\Users\\Crystal\\AndroidStudioProjects\\RemindMe1\\app\\src\\main\\res\\drawable\\bg_repeat.xml"
+    },
+    {
+        "merged": "C:\\Users\\Crystal\\AndroidStudioProjects\\Smart Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\onetime.xml",
+        "source": "C:\\Users\\Crystal\\AndroidStudioProjects\\Smart Calendar\\app\\src\\main\\res\\drawable\\onetime.xml"
+    },
+    {
+        "merged": "C:\\Users\\Crystal\\AndroidStudioProjects\\RemindMe1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\range.xml",
+        "source": "C:\\Users\\Crystal\\AndroidStudioProjects\\RemindMe1\\app\\src\\main\\res\\drawable\\range.xml"
+    },
+    {
+        "merged": "C:\\Users\\Crystal\\AndroidStudioProjects\\Smart Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\type_selector.xml",
+        "source": "C:\\Users\\Crystal\\AndroidStudioProjects\\Smart Calendar\\app\\src\\main\\res\\drawable\\type_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Crystal\\AndroidStudioProjects\\RemindMe1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\repeating.xml",
+        "source": "C:\\Users\\Crystal\\AndroidStudioProjects\\RemindMe1\\app\\src\\main\\res\\drawable\\repeating.xml"
+    },
+    {
+        "merged": "C:\\Users\\Crystal\\AndroidStudioProjects\\Smart Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\repeating.xml",
+        "source": "C:\\Users\\Crystal\\AndroidStudioProjects\\Smart Calendar\\app\\src\\main\\res\\drawable\\repeating.xml"
+    },
+    {
+        "merged": "C:\\Users\\Crystal\\AndroidStudioProjects\\RemindMe1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\line.xml",
+        "source": "C:\\Users\\Crystal\\AndroidStudioProjects\\RemindMe1\\app\\src\\main\\res\\drawable\\line.xml"
+    },
+    {
+        "merged": "C:\\Users\\Crystal\\AndroidStudioProjects\\Smart Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_repeat.xml",
+        "source": "C:\\Users\\Crystal\\AndroidStudioProjects\\Smart Calendar\\app\\src\\main\\res\\drawable\\bg_repeat.xml"
+    },
+    {
+        "merged": "C:\\Users\\Crystal\\AndroidStudioProjects\\Smart Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\line.xml",
+        "source": "C:\\Users\\Crystal\\AndroidStudioProjects\\Smart Calendar\\app\\src\\main\\res\\drawable\\line.xml"
+    },
+    {
+        "merged": "C:\\Users\\Crystal\\AndroidStudioProjects\\RemindMe1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\onetime.xml",
+        "source": "C:\\Users\\Crystal\\AndroidStudioProjects\\RemindMe1\\app\\src\\main\\res\\drawable\\onetime.xml"
+    },
+    {
+        "merged": "C:\\Users\\Crystal\\AndroidStudioProjects\\Smart Calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\range.xml",
+        "source": "C:\\Users\\Crystal\\AndroidStudioProjects\\Smart Calendar\\app\\src\\main\\res\\drawable\\range.xml"
+    }
+]
